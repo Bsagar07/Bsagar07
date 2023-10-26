@@ -7,7 +7,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
------
+
 <details>
   <summary>☎️ Contact me</summary>
 <div>
@@ -30,8 +30,4 @@
 
 
 <br/>
-</details> 
-
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
+</details>
